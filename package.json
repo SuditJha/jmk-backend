@@ -1,0 +1,15 @@
+{
+  "name": "jmk-backend",
+  "version": "1.0.0",
+  "description": "Backend For JMK invoive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "JMK"
+  ],
+  "author": "Sudit",
+  "license": "ISC"
+}
